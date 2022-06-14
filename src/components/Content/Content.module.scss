@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    width: 1768px;
+    flex-direction: column;
+    margin: 0 150px;
+
+}
+
+.ncc-logo {
+    margin: 20px 729px 30px 729px;
+    width: 310px;
+    height: 122px;
+}
+
+.big-group {
+    margin-left: 129px;
+}
+
+.small-group {
+    display: flex;
+    flex-direction: row;
+    margin-left: 129px;
+    justify-content: space-between;
+    align-items: center
+}
+
+.footer {
+    margin-left: 129px;
+}

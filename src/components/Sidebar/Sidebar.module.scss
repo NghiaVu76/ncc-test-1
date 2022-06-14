@@ -1,0 +1,13 @@
+.container {
+    position: absolute;
+    width: 150px;
+    height: 935px;
+    background: #191718;
+    display: flex;
+    flex-direction: column;
+}
+
+.list-items {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 470px;
+    height: 252px;
+}
+
+.content-header {
+    display: flex;
+    flex-direction: row;
+}
+
+.content-image {
+    width: 128px;
+    height: 128px;
+    margin-right: 16px;
+}
+
+p {
+    margin-top: 0;
+    text-align: justify;
+}

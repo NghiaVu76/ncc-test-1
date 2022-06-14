@@ -1,0 +1,23 @@
+.container {
+    margin-top: 100px;
+    width: 1768px;
+    height: 79px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.copyright {
+    position: absolute;
+    width: 125px;
+    height: 19px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+
+    color: #3E3E3E;
+}
